@@ -7,6 +7,10 @@ body {
     height: 59px;
 }
 
+nav {
+    background-color: #F0FFF0;
+}
+
 #logo-and-menu,
 #banner {
     background-color: #F0FFF0;
